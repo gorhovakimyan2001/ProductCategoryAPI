@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FqNQxR7xuQHBGAB8pF1zEBdqSpt9IrGysRk43/7GbCD1IsQChXqKoHfD2W+I9lQYP8JYrj/Rm91YavLBnOOuSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gorho\\source\\repos\\TaskApp\\ProductCategory.Application\\ProductCategory.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gorho\\.nuget\\packages\\fluentvalidation\\12.0.0\\fluentvalidation.12.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

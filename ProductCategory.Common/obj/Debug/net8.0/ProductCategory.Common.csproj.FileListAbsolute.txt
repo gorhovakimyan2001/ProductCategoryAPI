@@ -1,0 +1,11 @@
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Common\bin\Debug\net8.0\ProductCategory.Common.deps.json
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Common\bin\Debug\net8.0\ProductCategory.Common.dll
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Common\bin\Debug\net8.0\ProductCategory.Common.pdb
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Common\obj\Debug\net8.0\ProductCategory.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Common\obj\Debug\net8.0\ProductCategory.Common.AssemblyInfoInputs.cache
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Common\obj\Debug\net8.0\ProductCategory.Common.AssemblyInfo.cs
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Common\obj\Debug\net8.0\ProductCategory.Common.csproj.CoreCompileInputs.cache
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Common\obj\Debug\net8.0\ProductCategory.Common.dll
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Common\obj\Debug\net8.0\refint\ProductCategory.Common.dll
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Common\obj\Debug\net8.0\ProductCategory.Common.pdb
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Common\obj\Debug\net8.0\ref\ProductCategory.Common.dll

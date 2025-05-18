@@ -1,0 +1,17 @@
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Application\bin\Debug\net8.0\ProductCategory.Application.deps.json
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Application\bin\Debug\net8.0\ProductCategory.Application.dll
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Application\bin\Debug\net8.0\ProductCategory.Application.pdb
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Application\bin\Debug\net8.0\ProductCategory.Common.dll
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Application\bin\Debug\net8.0\ProductCategory.Domain.dll
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Application\bin\Debug\net8.0\ProductCategory.Common.pdb
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Application\bin\Debug\net8.0\ProductCategory.Domain.pdb
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Application\obj\Debug\net8.0\ProductCategory.Application.csproj.AssemblyReference.cache
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Application\obj\Debug\net8.0\ProductCategory.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Application\obj\Debug\net8.0\ProductCategory.Application.AssemblyInfoInputs.cache
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Application\obj\Debug\net8.0\ProductCategory.Application.AssemblyInfo.cs
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Application\obj\Debug\net8.0\ProductCategory.Application.csproj.CoreCompileInputs.cache
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Application\obj\Debug\net8.0\ProductC.2E0D6516.Up2Date
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Application\obj\Debug\net8.0\ProductCategory.Application.dll
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Application\obj\Debug\net8.0\refint\ProductCategory.Application.dll
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Application\obj\Debug\net8.0\ProductCategory.Application.pdb
+C:\Users\gorho\source\repos\TaskApp\ProductCategory.Application\obj\Debug\net8.0\ref\ProductCategory.Application.dll
